@@ -1,0 +1,84 @@
+[agents]
+[[agents.amazonSearch]]
+enabled = true
+labels = { always = ["laptop"], sometimes = ["16gb", "nvidia", "geforce", "gtx", "rtx", "i7", "refurbished", "renewed"] }
+url = "https://www.amazon.com/s?k=16gb+nvidia+GeForce+i7+laptop&low-price=500&high-price=1000"
+
+[[agents.amazonSearch]]
+enabled = true
+labels = { always = ["laptop"], sometimes = ["16gb", "nvidia", "geforce", "gtx", "rtx", "i7", "refurbished", "renewed"] }
+url = "https://www.amazon.com/s?k=32gb+nvidia+GeForce+i7+laptop&low-price=700&high-price=1600"
+
+[[agents.bestbuySearch]]
+enabled = true
+labels = { always = ["laptop", "16gb", "nvidia", "i7"], sometimes = ["refurbished", "renewed", "geforce", "gtx", "rtx"] }
+url = "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0500000&id=pcat17071&iht=n&ks=960&list=y&qp=currentprice_facet%3DPrice~500%20to%201000%5Egpubrand_facet%3DGPU%20Brand~NVIDIA%5Eparent_processormodelsv_facet%3DProcessor%20Model~Intel%20Core%20i7%5Esystemmemoryram_facet%3DRAM~16%20gigabytes&sc=Global&st=categoryid%24abcat0500000&type=page&usc=All%20Categories"
+
+[[agents.bestbuySearch]]
+enabled = true
+labels = { always = ["laptop", "32gb", "nvidia", "i7"], sometimes = ["refurbished", "renewed", "geforce", "gtx", "rtx"] }
+url = "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0500000&id=pcat17071&iht=n&ks=960&list=y&qp=currentprice_facet%3DPrice~700%20to%201200%5Egpubrand_facet%3DGPU%20Brand~NVIDIA%5Eparent_processormodelsv_facet%3DProcessor%20Model~Intel%20Core%20i7%5Esystemmemoryram_facet%3DRAM~32%20gigabytes&sc=Global&st=categoryid%24abcat0500000&type=page&usc=All%20Categories"
+
+[[agents.microcenterSearch]]
+enabled = true
+labels = { always = ["laptop", "16gb", "nvidia", "i7"], sometimes = ["refurbished", "renewed", "geforce", "gtx", "rtx"] }
+url = "https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294967288+44+45+4294820736+4294820741+4294820410+692&myStore=true"
+
+[[agents.microcenterSearch]]
+enabled = true
+labels = { always = ["laptop", "32gb", "nvidia", "i7"], sometimes = ["refurbished", "renewed", "geforce", "gtx", "rtx"] }
+url = "https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294967288+90+44+45+4294820736+4294820741+4294820410+46&myStore=true"
+
+[[agents.amazonProduct]]
+enabled = true
+labels = { always = ["sony-wh-xb700", "wireless-headphones", "headphones", "on-ear"], sometimes = [] } 
+url = "https://www.amazon.com/dp/B07PGL8J8G"
+
+[[agents.amazonProduct]]
+enabled = true
+labels = { always = ["sony-wh-ch710n", "wireless-headphones", "headphones", "over-ear"], sometimes = [] } 
+url = "https://www.amazon.com/dp/B085RNVJ3P"
+
+[[agents.bestbuyProduct]]
+enabled = true
+labels = { always = ["sony-wh-xb700", "wireless-headphones", "headphones", "on-ear"], sometimes = [] } 
+url = "https://www.bestbuy.com/site/sony-wh-xb700-wireless-on-ear-headphones-black/6339641.p?skuId=6339641"
+
+[[agents.bestbuyProduct]]
+enabled = true
+labels = { always = ["sony-wh-ch710n", "wireless-headphones", "headphones", "over-ear"], sometimes = [] } 
+url = "https://www.bestbuy.com/site/sony-wh-ch710n-wireless-noise-cancelling-over-the-ear-headphones-black/6408360.p?skuId=6408360"
+
+[[agents.microcenterProduct]]
+enabled = true
+labels = { always = ["sony-wh-ch710n", "wireless-headphones", "headphones", "over-ear"], sometimes = [] } 
+url = "https://www.microcenter.com/product/630712/sony-whch710n-active-noise-cancelling-wireless-bluetooth-headphones-black"
+
+# ---
+
+[[alerts]]
+slug = "wireless-headphones-for-mom"
+title = "Wireless Headphones for Mom"
+enabled = true
+labels = [{ allOf = ["wireless-headphones"] }]
+price = [{ lessThan = 8000 }]
+
+[[alerts]]
+slug = "16gb-workstation-laptop"
+title = "16GB Workstation Laptop"
+enabled = true
+labels = [
+  { allOf = ["laptop", "16gb", "i7"] },
+  { oneOf = ["nvidia", "geforce", "rtx", "gtx"] }
+]
+price = [{ lessThan = 80000 }]
+
+[[alerts]]
+slug = "32gb-workstation-laptop"
+title = "32GB Workstation Laptop"
+enabled = true
+labels = [
+  { allOf = ["laptop", "16gb", "i7"] },
+  { oneOf = ["nvidia", "geforce", "rtx", "gtx"] }
+]
+price = [{ lessThan = 100000 }]

@@ -1,0 +1,23 @@
+
+type: search
+
+fields:
+  vendor: "amazon"
+
+  id:
+  - url: path
+  - regex: "/\/dp\/([A-Z0-9]+)\/?/"
+
+  href:
+  - url: href
+
+  title: 
+  - textContent: "#productTitle"
+  
+  image:    
+  - attribute: "src"
+    selector: "#landingImage"
+  
+  price:
+  - textContent: ".a-price .a-offscreen"
+  - parser: dollar-and-cents

@@ -1,0 +1,1057 @@
+[
+  {
+    "vendor": "amazon",
+    "id": "B091H25DJ2",
+    "title": "Dell Inspiron 13 5310, 13.3 inch QHD (Quad High Definition) Laptop - Thin and Light Intel Core i7-11370H, 16GB DDR4 RAM, 512GB SSD, NVIDIA GeForce MX450, Dell Services - Windows 10 Home",
+    "image": "https://m.media-amazon.com/images/I/81rTYNStzzL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Dell-Inspiron-5310-Definition-Laptop/dp/B091H25DJ2/ref=sr_1_3?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-3",
+    "price": 97400,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07XJY1X1Z",
+    "title": "2019 Lenovo Ideapad L340 Gaming Laptop, 15.6\" FHD IPS Display, 9th Gen Intel Quad-Core i5-9300H Upto 4.1GHz, 16GB DDR4 RAM, 512GB SSD, NVIDIA GeForce GTX 1650 4GB, Backlit Keyboard, USB-C, Windows 10",
+    "image": "https://m.media-amazon.com/images/I/61MiatZBnxL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Lenovo-Ideapad-Quad-Core-i5-9300H-Keyboard/dp/B07XJY1X1Z/ref=sr_1_4?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-4",
+    "price": 92900,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": false,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08TKD86D9",
+    "title": "Latitude 5580 Laptop 15.6 Intel Core i7 7th Gen i7-7820HQ Dual Core 512GB SSD 16GB Nvidia GeForce 940 MX 1920x1080 FHD Touch Windows 10 Pro (Renewed)",
+    "image": "https://m.media-amazon.com/images/I/61dUoi4To6L._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Latitude-i7-7820HQ-GeForce-1920x1080-Windows/dp/B08TKD86D9/ref=sr_1_5?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-5",
+    "price": 87900,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07JPFFNW4",
+    "title": "Lenovo Legion 15.6\" FHD LED Backlit Gaming Laptop | Intel Core i7-7700HQ Quad-Core | 16GB DDR4 RAM | 512GB SSD | NVIDIA GeForce GTX 1060 6GB DDR5 | Red Backlit Keyboard | MiniDP | Windows 10",
+    "image": "https://m.media-amazon.com/images/I/61tbRiFv8wL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Lenovo-Anti-glare-i7-7700HQ-Quad-Core-Keyboard/dp/B07JPFFNW4/ref=sr_1_6?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-6",
+    "price": 99999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08SWJHHBT",
+    "title": "MSI GF65 Gaming Laptop: 15.6\" 144Hz FHD 1080p, Intel Core i7-10750H 6 Core, NVIDIA GeForce RTX 3060, 16GB, 512GB NVMe SSD, WiFi 6, Red Keyboard, Win 10, Black (10UE-047)",
+    "image": "https://m.media-amazon.com/images/I/81RJBDd3jyL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/MSI-GF65-Thin-10UE-047-i7-10750H/dp/B08SWJHHBT/ref=sr_1_8?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-8",
+    "price": 119900,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09N71322F",
+    "title": "Acer Nitro 5 15.6\" FHD IPS 144Hz Display Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050Ti | 16GB RAM | 512GB SSD | Backlit Keyboard | Windows 11 | with HDMI Cable Bundle",
+    "image": "https://m.media-amazon.com/images/I/71R4MrRSiZL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Acer-Nitro-Display-i7-11800H-Keyboard/dp/B09N71322F/ref=sr_1_9?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-9",
+    "price": 117999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08LZYN1ZF",
+    "title": "Razer Blade 15 Base Gaming Laptop 2020: Intel Core i7-10750H 6-Core, NVIDIA GeForce GTX 1660 Ti, 15.6\" FHD 1080p 120Hz, 16GB RAM, 256GB SSD, CNC Aluminum, Chroma RGB Lighting, Black,Windows 10 Home",
+    "image": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Razer-Blade-Base-Gaming-Laptop/dp/B08LZYN1ZF/ref=sr_1_10?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-10",
+    "price": 135312,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08739LDJY",
+    "title": "Lenovo Legion Y540 15.6\" Gaming Laptop 144Hz i7-9750H 16GB RAM 256GB SSD GTX 1660Ti 6GB - 9th Gen i7-9750H Hexa-Core - 144Hz Refresh Rate - NVIDIA GeForce GTX 1660Ti 6GB GDDR6 - Legion Ultimate S",
+    "image": "https://m.media-amazon.com/images/I/41e5jYJBHnL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Lenovo-Legion-Gaming-Laptop-i7-9750H/dp/B08739LDJY/ref=sr_1_11?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-11",
+    "price": 103000,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07THN4VB9",
+    "title": "2019 ASUS ROG G531GT 15.6\" FHD Gaming Laptop- Hexa-Core 4.5 GHz Intel i7-9750H, 16GB DDR4, NVIDIA GeForce GTX 1650 with 4GB GDDR5, 512GB PCIe SSD, RGB Backlit KB, HDMI, USB 3.0",
+    "image": "https://m.media-amazon.com/images/I/61XUL2pyMjL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/ASUS-Laptop-Hexa-Core-i7-9750H-GeForce/dp/B07THN4VB9/ref=sr_1_13?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-13",
+    "price": 129490,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08FC15WPH",
+    "title": "Lenovo Legion 5 15.6\" LED-Backlit Antiglare FHD Gaming Laptop 10th Gen Intel Core i7-10750H 16GB RAM 1TB HDD + 512GB NVMe SSD 6GB NVIDIA GeForce GTX 1660Ti Windows 10 Home - Moss Green",
+    "image": "https://m.media-amazon.com/images/I/61iazAjPsAL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Lenovo-LED-Backlit-Antiglare-i7-10750H-GeForce/dp/B08FC15WPH/ref=sr_1_14?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-14",
+    "price": 129999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08HVF4JSR",
+    "title": "ASUS ROG Strix G 15.6 Inch FHD Gaming Laptop Bundle Accessory | Intel Core i7-10750H | NVIDIA GeForce GTX 1650 Ti | 16GB DDR4 RAM | 512GB SSD | RGB Backlit Keyboard | Windows 10 Home",
+    "image": "https://m.media-amazon.com/images/I/81Md+pSt04L._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/ASUS-ROG-Strix-Accessory-i7-10750H/dp/B08HVF4JSR/ref=sr_1_15?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-15",
+    "price": 115999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07QDKML8D",
+    "title": "Lenovo Legion Y540 15.6\" Full HD 60Hz Gaming Notebook Computer, Intel Core i7-9750H 2.6GHz, 16GB RAM, 256GB SSD, NVIDIA GeForce GTX 1660 Ti 6GB, Windows 10 Home, Raven Black",
+    "image": "https://m.media-amazon.com/images/I/61czhDtLj5L._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Lenovo-Notebook-Computer-i7-9750H-GeForce/dp/B07QDKML8D/ref=sr_1_16?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-16",
+    "price": 100990,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07Y32TNYC",
+    "title": "HP Envy 2019,17.3\" Full HD Touch, i7-10510U 10th gen Quad CPU,NVIDIA MX250(4GB), 1TB SSD NVME,16GB RAM,Win 10 Pro Pre-Installed by HP, Neopack 64GB Flash Drive, B&O Speakers, HP Premium Wty, No DVD Rw",
+    "image": "https://m.media-amazon.com/images/I/51KiTmQVzAL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/HP-Envy-i7-10510U-Pre-Installed-Speakers/dp/B07Y32TNYC/ref=sr_1_21?keywords=16gb+nvidia+GeForce+i7+laptop&qid=1646093754&refinements=p_36%3A50000-100000&sr=8-21",
+    "price": 179999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": false,
+      "gtx": false,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B08GFRW5R2",
+    "title": "Newest Dell G5 15.6” FHD Gaming Laptop, i7-10750H, Backlit Keyboard, Bluetooth, USB-C, HDMI, Mini DP, NVIDIA GeForce GTX 1650 Ti, Windows 10 Home, Black (32GB RAM | 1TB PCIe SSD)",
+    "image": "https://m.media-amazon.com/images/I/71hK4AggBMS._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Dell-G5-i7-10750H-Keyboard-Bluetooth/dp/B08GFRW5R2/ref=sr_1_3?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-3",
+    "price": 154900,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09LXGPZMF",
+    "title": "2022 ASUS TUF Dash 15.6\" Ultra Slim Gaming Laptop 144Hz FHD IPS Intel 4-Core i7-11370H NVIDIA GeForce RTX 3050TI 32GB RAM DDR4 1TB NVMe SSD USB C WiFi AX HDMI 2.0 RJ-45 Thunderbolt 4 Windows 11 Pro",
+    "image": "https://m.media-amazon.com/images/I/81CKsUQBNkL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/ASUS-i7-11370H-GeForce-Thunderbolt-Windows/dp/B09LXGPZMF/ref=sr_1_4?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-4",
+    "price": 149999,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07X8QFYFD",
+    "title": "CUK GF65 Thin by MSI 15 Inch Gaming Notebook (Intel Core i7, 32GB RAM, 1TB NVMe SSD, NVIDIA GeForce RTX 3060 6GB, 15.6\" FHD 144Hz IPS-Level, Windows 10 Home) Gamer Laptop Computer",
+    "image": "https://m.media-amazon.com/images/I/51Negbst3BL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/GF65-i7-9750H-IPS-Level-Notebook-Computer/dp/B07X8QFYFD/ref=sr_1_6?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-6",
+    "price": 144999,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07Z7PM4G7",
+    "title": "2019 ASUS ROG G531GT 15.6\" FHD Premium Gaming Laptop | Intel 6-Core i7-9750H Upto 4.5GHz | 32GB RAM | 512GB SSD | NVIDIA GeForce GTX 1650 4GB GDDR5 | RGB Backlit Keyboard | Windows 10",
+    "image": "https://m.media-amazon.com/images/I/61XUL2pyMjL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/ASUS-Premium-i7-9750H-GeForce-Keyboard/dp/B07Z7PM4G7/ref=sr_1_8?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-8",
+    "price": 139900,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B0826R9JG3",
+    "title": "2020 Lenovo Legion Y540 15.6 Inch FHD 1080P Gaming Laptop (Intel 6-Core i7-9750H up to 4.5GHz, NVIDIA GeForce GTX 1650 4GB, 32GB DDR4 RAM, 1TB SSD (Boot) + 1TB HDD, Backlit Keyboard, Windows 10)",
+    "image": "https://m.media-amazon.com/images/I/510I5jjocqL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Lenovo-i7-9750H-GeForce-Backlit-Keyboard/dp/B0826R9JG3/ref=sr_1_9?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-9",
+    "price": 121959,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07YLRQ526",
+    "title": "CUK GF65 Thin by MSI 15 Inch Gaming Notebook (Intel Core i7, 32GB RAM, 1TB NVMe SSD, NVIDIA GeForce GTX 1660 Ti 6GB, 15.6\" FHD 120Hz IPS-Level, Windows 10 Home) Gamer Laptop Computer",
+    "image": "https://m.media-amazon.com/images/I/51Negbst3BL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/GF65-i7-9750H-IPS-Level-Notebook-Computer/dp/B07YLRQ526/ref=sr_1_10?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-10",
+    "price": 113999,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09KTYPDRB",
+    "title": "MSI Katana 15.6\" FHD 144hz Premium Gaming Laptop | 11th Gen Intel 8-Core i7-11800H | 32GB RAM | 1TBSSD+1TBSSD | NVIDIA GeForce RTX 3060 | Backlit Keyboard | Windows 10 | with HDMI Cable Bundle",
+    "image": "https://m.media-amazon.com/images/I/51WHrgD-jQL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/MSI-Premium-i7-11800H-GeForce-Keyboard/dp/B09KTYPDRB/ref=sr_1_11?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-11",
+    "price": 159999,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09L7HC1C3",
+    "title": "2022 MSI GF65 Thin 15.6\" FHD 144Hz Gaming Laptop - Intel i7-10750H 6 Cores - NVIDIA GeForce RTX 3060 Max-Q 6GB GDDR6 - 32GB DDR4 - 1TB NVMe SSD - WiFi 6 RJ-45 Win 10 Home w/ 32GB USB Drive",
+    "image": "https://m.media-amazon.com/images/I/51BowacTJhL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/2022-MSI-144Hz-Gaming-Laptop/dp/B09L7HC1C3/ref=sr_1_13?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-13",
+    "price": 159900,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09S8L8CL3",
+    "title": "2022 Dell Inspiron 5510 15.6” FHD Laptop - Intel 11th i7-11390H - 32GB DDR4 - 1TB NVMe SSD - Nvidia Geforce MX450 - Thunderbolt - Backlit Keyboard w/ FP Reader - WiFi 6 - Windows 10 Pro",
+    "image": "https://m.media-amazon.com/images/I/71PXUqgmIbL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/2022-Dell-Inspiron-5510-Laptop/dp/B09S8L8CL3/ref=sr_1_14?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-14",
+    "price": 139900,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09FNXJ71V",
+    "title": "MSI GL66 15.6\" 144Hz FHD Premium Gaming Laptop | Intel i7-11800H | 32GB RAM | 1TBSSD+1TBSSD | NVIDIA GeForce RTX 3070 | Backlit Keyboard | Windows 10 | with USB3.0 HUB Bundle",
+    "image": "https://m.media-amazon.com/images/I/51TdYTykOcL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/MSI-Premium-i7-11800H-GeForce-Keyboard/dp/B09FNXJ71V/ref=sr_1_16?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-16",
+    "price": 193001,
+    "labels": {
+      "laptop": true,
+      "16gb": false,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B09HJKGK5V",
+    "title": "Acer Nitro 5 AN517-54-79L1 Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050Ti Laptop GPU | 17.3\" FHD 144Hz IPS Display | 16GB DDR4 | 1TB NVMe SSD | Killer Wi-Fi 6 | Backlit KB | Win 11",
+    "image": "https://m.media-amazon.com/images/I/81Ivn5DIxhL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Acer-AN517-54-79L1-i7-11800H-GeForce-Display/dp/B09HJKGK5V/ref=sr_1_19?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-19",
+    "price": 107999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B092YHJLS6",
+    "title": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6\" Full HD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard",
+    "image": "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Acer-Predator-PH315-54-760S-i7-11800H-Keyboard/dp/B092YHJLS6/ref=sr_1_20?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-20",
+    "price": 127999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B091H25DJ2",
+    "title": "Dell Inspiron 13 5310, 13.3 inch QHD (Quad High Definition) Laptop - Thin and Light Intel Core i7-11370H, 16GB DDR4 RAM, 512GB SSD, NVIDIA GeForce MX450, Dell Services - Windows 10 Home",
+    "image": "https://m.media-amazon.com/images/I/81rTYNStzzL._AC_UY218_.jpg",
+    "href": "https://www.amazon.com/Dell-Inspiron-5310-Definition-Laptop/dp/B091H25DJ2/ref=sr_1_21?keywords=32gb+nvidia+GeForce+i7+laptop&qid=1646093760&refinements=p_36%3A70000-160000&sr=8-21",
+    "price": 97400,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "best-buy",
+    "id": "6489833",
+    "title": "Apple - MacBook Pro 15.4\" (Mid 2014) Laptop (MGXC2LL/A) Intel Core i7 - 16GB Memory - 512GB Flash Storage - Pre-Owned - Silver",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6489/6489833_sd.jpg;maxHeight=200;maxWidth=300",
+    "href": "https://www.bestbuy.com/site/apple-macbook-pro-15-4-mid-2014-laptop-mgxc2ll-a-intel-core-i7-16gb-memory-512gb-flash-storage-pre-owned-silver/6489833.p?skuId=6489833",
+    "price": 97999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": false,
+      "gtx": false,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "best-buy",
+    "id": "6424546",
+    "title": "Lenovo - Geek Squad Certified Refurbished Yoga 15.6\" 4K UHD Laptop - Intel Core i7 - 16GB Memory - GeForce GTX 1050 - 512GB SSD - Platinum Silver",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6424/6424546_sd.jpg;maxHeight=200;maxWidth=300",
+    "href": "https://www.bestbuy.com/site/lenovo-geek-squad-certified-refurbished-yoga-15-6-4k-uhd-laptop-intel-core-i7-16gb-memory-geforce-gtx-1050-512gb-ssd-platinum-silver/6424546.p?skuId=6424546",
+    "price": 94499,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "best-buy",
+    "id": "6381716",
+    "title": "Dell - Inspiron 15.6\" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Silver",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6381/6381716_sd.jpg;maxHeight=200;maxWidth=300",
+    "href": "https://www.bestbuy.com/site/dell-inspiron-15-6-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-silver/6381716.p?skuId=6381716",
+    "price": 95999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": false,
+      "gtx": false,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "643689",
+    "title": "HP 17-cn0045cl 17.3\" Laptop Computer Refurbished - Silver;  Intel Core i7 11th Gen 1165G7 2.8GHz Processor;  NVIDIA GeForce MX450 2GB GDDR5;  16GB DDR4-3200 RAM;  1TB HDD+256GB SSD",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0643689_340950.jpg",
+    "href": "https://www.microcenter.com/product/643689/hp-17-cn0045cl-173-laptop-computer-refurbished-silver",
+    "price": 76999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "644726",
+    "title": "ASUS ROG Strix G512LW-WS74-R 15.6\" Gaming Laptop Computer Factory Refurbished - Black;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 2070 8GB;  16GB DDR4 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0644726_352625.jpg",
+    "href": "https://www.microcenter.com/product/644726/asus-rog-strix-g512lw-ws74-r-156-gaming-laptop-computer-factory-refurbished-black",
+    "price": 99999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "643462",
+    "title": "Lenovo IdeaPad Flex 5 15ITL05 15.6\" 2-in-1 Laptop Computer Factory Refurbished - Grey;  Intel Core i7 1th Gen 1165G7 2.8GHz Processor;  NVIDIA GeForce MX450 2GB GDDR6;  16GB DDR4-3200 Onboard RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0643462_337360.jpg",
+    "href": "https://www.microcenter.com/product/643462/lenovo-ideapad-flex-5-15itl05-156-2-in-1-laptop-computer-factory-refurbished-grey?ob=1",
+    "price": 95999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "633011",
+    "title": "ASUS ZenBook 14 UX435EG-XH74 14\" Laptop Computer - Grey;  Intel Core i7 11th Gen 1165G7 2.8GHz Processor;  NVIDIA GeForce MX450 2GB GDDR6;  16GB LPDDR4X Onboard RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0633011_226845.jpg",
+    "href": "https://www.microcenter.com/product/633011/asus-zenbook-14-ux435eg-xh74-14-laptop-computer-grey",
+    "price": 119999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "630089",
+    "title": "HP OMEN 15-ek0013dx 15.6\" Gaming Laptop Computer Refurbished - Black;  Intel Core i7-10750H Processor 2.6GHz;  NVIDIA GeForce RTX 2060 6GB GDDR5;  16GB DDR4-2933 RAM;  32GB Intel Optane Memory",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0630089_192187.jpg",
+    "href": "https://www.microcenter.com/product/630089/hp-omen-15-ek0013dx-156-gaming-laptop-computer-refurbished-black",
+    "price": 94999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "643939",
+    "title": "MSI GF75 Thin 10UE-028US 17.3\" Gaming Laptop Computer Factory Refurbished - Black;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 3060 6GB GDDR6;  16GB DDR4-3200 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0643939_345009.jpg",
+    "href": "https://www.microcenter.com/product/643939/msi-gf75-thin-10ue-028us-173-gaming-laptop-computer-factory-refurbished-black",
+    "price": 109999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "644734",
+    "title": "MSI GF65 Thin 10UE-097US 15.6\" Gaming Laptop Computer Factory Refurbished - Black;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 3060 6GB GDDR6;  16GB DDR4-3200 RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0644734_355735.jpg",
+    "href": "https://www.microcenter.com/product/644734/msi-gf65-thin-10ue-097us-156-gaming-laptop-computer-factory-refurbished-black",
+    "price": 109999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "634036",
+    "title": "HP ENVY 15-ep0010nr 15.6\" Gaming Laptop Computer Refurbished - Silver;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce GTX 1650 Ti 4GB GDDR6;  16GB DDR4-2933 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0634036_237693.jpg",
+    "href": "https://www.microcenter.com/product/634036/hp-envy-15-ep0010nr-156-gaming-laptop-computer-refurbished-silver",
+    "price": 87999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": true,
+      "rtx": false
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "640556",
+    "title": "ASUS ROG Strix G512LW-WS74 15.6\" Gaming Laptop Computer Refurbished - Black;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 2070 8GB GDDR6;  16GB DDR4 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0640556_310060.jpg",
+    "href": "https://www.microcenter.com/product/640556/asus-rog-strix-g512lw-ws74-156-gaming-laptop-computer-refurbished-black",
+    "price": 124999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "637467",
+    "title": "MSI Katana GF66 11UE-031 15.6\" Gaming Laptop Computer - Black;  Intel Core i7 11th Gen 11800H 2.3GHz Processor;  NVIDIA GeForce RTX 3060 6GB GDDR6;  16GB DDR4-3200 RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0637467_274696.jpg",
+    "href": "https://www.microcenter.com/product/637467/msi-katana-gf66-11ue-031-156-gaming-laptop-computer-black",
+    "price": 99999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "639446",
+    "title": "Acer Predator Helios 300 PH315-54-748Y 15.6\" Gaming Laptop Computer - Black;  Intel Core i7 11th Gen 11800H 2.3GHz Processor;  NVIDIA GeForce RTX 3050 Ti 4GB GDDR6;  16GB DDR4-3200 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0639446_297846.jpg",
+    "href": "https://www.microcenter.com/product/639446/acer-predator-helios-300-ph315-54-748y-156-gaming-laptop-computer-black",
+    "price": 109999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "640096",
+    "title": "MSI Sword 17 A11UD-428 17.3\" Gaming Laptop Computer - White;  Intel Core i7 11th Gen 11800H 2.4GHz Processor;  NVIDIA GeForce RTX 3050 Ti 4GB GDDR6;  16GB DDR4-3200 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0640096_306746.jpg",
+    "href": "https://www.microcenter.com/product/640096/msi-sword-17-a11ud-428-173-gaming-laptop-computer-white",
+    "price": 99999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "641175",
+    "title": "Dell G15 5511 15.6\" Gaming Laptop Computer - Gray;  Intel Core i7 11th Gen 11800H 2.3GHz Processor;  NVIDIA GeForce RTX 3060 6GB GDDR6;  16GB DDR4-3200 RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0641175_318766.jpg",
+    "href": "https://www.microcenter.com/product/641175/dell-g15-5511-156-gaming-laptop-computer-gray",
+    "price": 119999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "637468",
+    "title": "MSI Katana GF66 11UD-002 15.6\" Gaming Laptop Computer Platinum Collection - Black;  Intel Core i7 11th Gen 11800H 2.3GHz Processor;  NVIDIA GeForce RTX 3050 Ti 4GB GDDR6;  16GB DDR4-3200 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0637468_274720.jpg",
+    "href": "https://www.microcenter.com/product/637468/msi-katana-gf66-11ud-002-156-gaming-laptop-computer-platinum-collection-black",
+    "price": 89999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "638937",
+    "title": "Acer Predator Helios 300 PH315-54-731M 15.6\" Gaming Laptop Computer - Black;  Intel Core i7 11th Gen 11800H 2.4GHz Processor;  NVIDIA GeForce RTX 3060 6GB GDDR6;  16GB DDR4-3200 RAM;  512GB SSD+1TB HDD",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0638937_290668.jpg",
+    "href": "https://www.microcenter.com/product/638937/acer-predator-helios-300-ph315-54-731m-156-gaming-laptop-computer-black",
+    "price": 119999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": false,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "640226",
+    "title": "Lenovo Legion Y540-15IRH 15.6\" Gaming Laptop Computer Factory Refurbished - Black;  Intel Core i7 9th Gen 9750H 2.6GHz Processor;  NVIDIA GeForce RTX 2060 6GB GDDR6;  16GB DDR4-2666 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0640226_307546.jpg",
+    "href": "https://www.microcenter.com/product/640226/lenovo-legion-y540-15irh-156-gaming-laptop-computer-factory-refurbished-black?ob=1",
+    "price": 95999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "636627",
+    "title": "HP OMEN 15-dh1060nr 15.6\" Gaming Laptop Computer Refurbished - Black;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 2070 Max-Q Design 8GB GDDR6;  16GB DDR4-2933 RAM;  512GB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0636627_266205.jpg",
+    "href": "https://www.microcenter.com/product/636627/hp-omen-15-dh1060nr-156-gaming-laptop-computer-refurbished-black?ob=1",
+    "price": 124999,
+    "labels": {
+      "laptop": true,
+      "16gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "640105",
+    "title": "MSI GE66 Raider 10SFA-048 15.6\" Gaming Laptop Computer Factory Refurbished - Blue;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 2070 SUPER 8GB GDDR6;  32GB DDR4-2666 RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0640105_306373.jpg",
+    "href": "https://www.microcenter.com/product/640105/msi-ge66-raider-10sfa-048-156-gaming-laptop-computer-factory-refurbished-blue",
+    "price": 129999,
+    "labels": {
+      "laptop": true,
+      "32gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "644735",
+    "title": "ASUS ROG Strix G512LW-XS78-R 15.6\" Gaming Laptop Computer Factory Refurbished - Black;  Intel Core i7 10th Gen 10750H 2.6GHz Processor;  NVIDIA GeForce RTX 2070 8GB;  32GB DDR4 RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0644735_355057.jpg",
+    "href": "https://www.microcenter.com/product/644735/asus-rog-strix-g512lw-xs78-r-156-gaming-laptop-computer-factory-refurbished-black",
+    "price": 129999,
+    "labels": {
+      "laptop": true,
+      "32gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "640177",
+    "title": "MSI GP66 Leopard 10UG-218 15.6\" Gaming Laptop Computer Factory Refurbished - Black;  Intel Core i7 10th Gen 10875H 2.3GHz Processor;  NVIDIA GeForce RTX 3070 8GB GDDR6;  32GB DDR4-3200 RAM;  1TB Solid State Drive",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0640177_306621.jpg",
+    "href": "https://www.microcenter.com/product/640177/msi-gp66-leopard-10ug-218-156-gaming-laptop-computer-factory-refurbished-black",
+    "price": 149999,
+    "labels": {
+      "laptop": true,
+      "32gb": true,
+      "nvidia": true,
+      "i7": true,
+      "refurbished": true,
+      "renewed": false,
+      "geforce": true,
+      "gtx": false,
+      "rtx": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B07PGL8J8G",
+    "title": "Sony WHXB700 Wireless Extra Bass Bluetooth Headset/Headphones with mic for Phone Call and Alexa Voice Control, Black",
+    "image": "https://m.media-amazon.com/images/I/71fqoZeHgpL._AC_SY355_.jpg",
+    "href": "https://www.amazon.com/dp/B07PGL8J8G",
+    "price": 7999,
+    "labels": {
+      "sony-wh-xb700": true,
+      "wireless-headphones": true,
+      "headphones": true,
+      "on-ear": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "amazon",
+    "id": "B085RNVJ3P",
+    "title": "Sony Noise Cancelling Headphones WHCH710N: Wireless Bluetooth Over the Ear Headset with Mic for Phone-Call, Black",
+    "image": "https://m.media-amazon.com/images/I/51sCVB0IZDL._AC_SX355_.jpg",
+    "href": "https://www.amazon.com/dp/B085RNVJ3P",
+    "price": 9800,
+    "labels": {
+      "sony-wh-ch710n": true,
+      "wireless-headphones": true,
+      "headphones": true,
+      "over-ear": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "best-buy",
+    "id": "6339641",
+    "title": "Sony - WH-XB700 Wireless On-Ear Headphones - Black",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339641_sd.jpg;maxHeight=640;maxWidth=550",
+    "href": "https://www.bestbuy.com/site/sony-wh-xb700-wireless-on-ear-headphones-black/6339641.p?skuId=6339641",
+    "price": 7999,
+    "labels": {
+      "sony-wh-xb700": true,
+      "wireless-headphones": true,
+      "headphones": true,
+      "on-ear": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "best-buy",
+    "id": "6408360",
+    "title": "Sony - WH-CH710N Wireless Noise-Cancelling Over-the-Ear Headphones - Black",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6408/6408360_rd.jpg;maxHeight=640;maxWidth=550",
+    "href": "https://www.bestbuy.com/site/sony-wh-ch710n-wireless-noise-cancelling-over-the-ear-headphones-black/6408360.p?skuId=6408360",
+    "price": 9800,
+    "labels": {
+      "sony-wh-ch710n": true,
+      "wireless-headphones": true,
+      "headphones": true,
+      "over-ear": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  },
+  {
+    "vendor": "micro-center",
+    "id": "630712",
+    "title": "Sony WHCH710N Active Noise Cancelling Wireless Bluetooth Headphones - Black Up to 35 Hours of Battery Life;  Built-in Microphone",
+    "image": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/630712_196535_01_front_thumbnail.jpg",
+    "href": "https://www.microcenter.com/product/630712/sony-whch710n-active-noise-cancelling-wireless-bluetooth-headphones-black",
+    "price": 19999,
+    "labels": {
+      "sony-wh-ch710n": true,
+      "wireless-headphones": true,
+      "headphones": true,
+      "over-ear": true
+    },
+    "accessTime": "2022-02-28T18:15:52-06:00"
+  }
+]
